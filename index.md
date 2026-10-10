@@ -1,6 +1,6 @@
 ---
 title: Valorant Standard Ranked Journey
 ---
-# Header
+# First weeks
 
 
